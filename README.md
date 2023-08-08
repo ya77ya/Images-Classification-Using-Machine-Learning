@@ -1,4 +1,4 @@
-# Images-Classification-by-Using-Machine-Learning
+# Images-Classification-Using-Machine-Learning
 Images Classification by TensorFlow JavaScript Using [Teachable Machine](https://teachablemachine.withgoogle.com/) 
 
 Image Classification uses Machine Learning algorithms to analyze the presence of items in a picture and to categorize the picture
